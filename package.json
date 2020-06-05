@@ -1,0 +1,23 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": ":construction: :construction: :construction: :construction: :construction: :construction:",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camila-Isabela/Next-Level-Week.git"
+  },
+  "keywords": [],
+  "author": "Camila Isabela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camila-Isabela/Next-Level-Week/issues"
+  },
+  "homepage": "https://github.com/Camila-Isabela/Next-Level-Week#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
