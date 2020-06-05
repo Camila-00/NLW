@@ -2,6 +2,7 @@
     
     #page-home {
         background-position-x: 70vw;
+       
     }
 
     #page-home .content {
@@ -51,3 +52,43 @@
         background-position-y: 200px;
     }
 }
+
+@media (max-width: 414px) {
+    #page-create-point header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #page-create-point header a {
+        margin-top: 32px;
+    }
+
+    /* #page-create-point form {
+        grid-template-columns: 1fr;
+    } */
+
+    /* #page-create-point .field-group {
+        grid-template-columns: 1fr;
+    } */
+
+}
+
+/* @media (max-width: 768px) {
+    #page-create-point header {
+        display: inline-flex;        
+    }
+
+    #page-create-point header a {
+        margin-left: 64px;
+    }
+}
+
+@media (max-width: 375px) {
+    #page-create-point header { */
+        /* display: block; */
+        /* justify-content: center;
+        align-items: center;        */
+    /* }
+} */
+                
