@@ -1,8 +1,8 @@
+
 @media (max-width: 900px) {
     
     #page-home {
-        background-position-x: 70vw;
-       
+        background-position-x: 70vw;       
     }
 
     #page-home .content {
@@ -38,6 +38,27 @@
         margin-top: 32px;
     }
 
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field {
+        margin-left: 0;
+    }
+
+    form {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+}
+
+
+@media (min-width: 1700px) {
+
+    #page-home {
+        background-position-x: 40vw;
+    }
 }
 
 @media (min-width: 1366px) {
@@ -47,48 +68,74 @@
     }
 }
 
-@media (max-height: 768px) {
+@media (max-height: 760px) {
     #page-home {
-        background-position-y: 200px;
+        background-position-y: 100px;
     }
 }
 
-@media (max-width: 414px) {
-    #page-create-point header {
-        display: flex;
-        flex-direction: column;
+@media (max-width: 700px) {
+     .items-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    /* form button {
+        display: block;
+        justify-content: center;
         align-items: center;
-    }
-
-    #page-create-point header a {
-        margin-top: 32px;
-    }
-
-    /* #page-create-point form {
-        grid-template-columns: 1fr;
-    } */
-
-    /* #page-create-point .field-group {
-        grid-template-columns: 1fr;
     } */
 
 }
 
-/* @media (max-width: 768px) {
+
+
+@media (max-width: 600px) {
+    form legend {
+        display: block;
+    }
+
+    #page-home {
+        background-position-x: 70vw;
+    }
+
+}
+
+@media (max-width: 500px) {
     #page-create-point header {
-        display: inline-flex;        
+        margin-top: 48px;
+        display: grid;
+        grid-template-columns: 1fr;
     }
 
     #page-create-point header a {
-        margin-left: 64px;
+        margin-top: 24px;
+        justify-content: center;
+    }
+
+    .items-grid {
+        grid-template-columns: 1fr;
+    }
+
+    form {
+        margin: 40px -20px;
     }
 }
 
-@media (max-width: 375px) {
-    #page-create-point header { */
-        /* display: block; */
-        /* justify-content: center;
-        align-items: center;        */
-    /* }
-} */
-                
+@media (max-width: 360px) {
+
+    form {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: -30px;
+    }
+}
+
+@media (max-width: 320px) {
+    form {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: -50px;
+    }
+}
+
+

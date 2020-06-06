@@ -22,7 +22,7 @@
 
 #modal .content {
     color: white;
-    width: 420px;
+    width: auto;
 }
 #modal .header {
     display: flex;
