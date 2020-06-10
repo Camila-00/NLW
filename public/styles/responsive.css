@@ -1,138 +1,65 @@
-@media (max-width: 900px) {
-    
+/* Moto G4 e Galaxy S5 Portrait */
+
+@media (max-width: 360px) and (max-height: 640px) {
+
     #page-home {
-        background-position-x: 70vw;       
+        background-position-x: center;
+        background-position-y: 22vh;
     }
 
-    #page-home .content {
-        align-items: center;
-        text-align: center;
+    #page-home header {
+        width: 100%;
+        flex-direction: column;
+        margin-top: 24px;
     }
 
     #page-home header a {
-        position: absolute;
-        bottom: 48px;
-        left: 50%;
-        transform: translateX(-50%);
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+
+    #page-home main h1 {
+        font-size: 40px;
+        padding-top: 270px;
+        text-align: center;
+    }
+
+    #page-home main p {
+        font-size: 16px;
+        line-height: 30px;
+        margin-top: 40px;
+        width: 300px;
+    }
+
+}
+
+/* Moto G4 e Galaxy S5 Landscape */
+
+@media (max-width: 640px) and (max-height: 360px) {
+
+    #page-home {
+        background-position-x: center;
+        background-position-y: 25vh;
+    }
+
+    #page-home header a {
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+
+    #page-home main h1 {
+        font-size: 50px;
     }
 
     #page-home main {
-        align-items: center;
+        padding-top: 300px;
     }
 
-    #page-search-results .cards {
-        grid-template-columns: 1fr;
-    }
-
-    #page-search-results .cards img {
-        height: 220px;
-    }
-
-    #page-search-results header {
-        display: flex;
-        flex-direction: column;
-    }
-
-    #page-search-results header a {
-        margin-top: 32px;
-    }
-
-    #page-create-point .field-group {
-        flex-direction: column;
-    }
-
-    #page-create-point .field-group .field + .field {
-        margin-left: 0;
-    }
-
-    form {
-        display: grid;
-        grid-template-columns: 1fr;
-    }
-
-}
-
-
-@media (min-width: 1700px) {
-
-    #page-home {
-        background-position-x: 40vw;
-    }
-}
-
-@media (min-width: 1366px) {
-
-    #page-home {
-        background-position-x: 40vw;
-    }
-}
-
-@media (max-height: 760px) {
-    #page-home {
-        background-position-y: 100px;
-    }
-}
-
-@media (max-width: 700px) {
-     .items-grid {
-        grid-template-columns: 1fr 1fr;
-    }
-
-    /* form button {
-        display: block;
-        justify-content: center;
-        align-items: center;
-    } */
-
-}
-
-
-
-@media (max-width: 600px) {
-    form legend {
-        display: block;
-    }
-
-    #page-home {
-        background-position-x: 70vw;
-    }
-
-}
-
-@media (max-width: 500px) {
-    #page-create-point header {
-        margin-top: 48px;
-        display: grid;
-        grid-template-columns: 1fr;
-    }
-
-    #page-create-point header a {
+    #page-home main p {
+        font-size: 24px;
+        line-height: 38px;
         margin-top: 24px;
-        justify-content: center;
+        width: 475px;
     }
 
-    .items-grid {
-        grid-template-columns: 1fr;
-    }
-
-    form {
-        margin: 40px -20px;
-    }
-}
-
-@media (max-width: 360px) {
-
-    form {
-        margin-top: 30px;
-        margin-bottom: 30px;
-        margin-left: -30px;
-    }
-}
-
-@media (max-width: 320px) {
-    form {
-        margin-top: 30px;
-        margin-bottom: 30px;
-        margin-left: -50px;
-    }
 }
