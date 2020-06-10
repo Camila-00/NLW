@@ -5,6 +5,7 @@
     #page-home {
         background-position-x: center;
         background-position-y: 22vh;
+        background-size: contain;
     }
 
     #page-home header {
@@ -40,6 +41,7 @@
     #page-home {
         background-position-x: center;
         background-position-y: 25vh;
+        background-size: contain;
     }
 
     #page-home header a {
