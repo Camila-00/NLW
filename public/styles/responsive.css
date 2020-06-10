@@ -1,3 +1,70 @@
+/* Moto G4 e Galaxy S5 Portrait */
+
+@media (max-width: 360px) and (max-height: 640px) {
+
+    #page-home {
+        background-position-x: center;
+        background-position-y: 22vh;
+    }
+
+    #page-home header {
+        width: 100%;
+        flex-direction: column;
+        margin-top: 24px;
+    }
+
+    #page-home header a {
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+
+    #page-home main h1 {
+        font-size: 40px;
+        padding-top: 270px;
+        text-align: center;
+    }
+
+    #page-home main p {
+        font-size: 16px;
+        line-height: 30px;
+        margin-top: 40px;
+        width: 300px;
+    }
+
+}
+
+/* Moto G4 e Galaxy S5 Landscape */
+
+@media (max-width: 640px) and (max-height: 360px) {
+
+    #page-home {
+        background-position-x: center;
+        background-position-y: 25vh;
+    }
+
+    #page-home header a {
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+
+    #page-home main h1 {
+        font-size: 50px;
+    }
+
+    #page-home main {
+        padding-top: 300px;
+    }
+
+    #page-home main p {
+        font-size: 24px;
+        line-height: 38px;
+        margin-top: 24px;
+        width: 475px;
+    }
+
+}
+
+
 /* Anterior###################################################### */
 
 /* @media (max-width: 900px) {
