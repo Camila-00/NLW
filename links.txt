@@ -1,0 +1,19 @@
+hiatus nobody  https://www.youtube.com/watch?v=Vvbl2IgukV0&list=RD6HRDgHMmtKE&index=18
+
+Mayk Brito   https://github.com/maykbrito
+
+RocketSeat   https://github.com/Rocketseat
+
+Sobre o projeto --> https://github.com/Camila-Isabela/Next-Level-Week#-sobre-o-projeto
+
+
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { ... }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
