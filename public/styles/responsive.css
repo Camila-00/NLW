@@ -1,7 +1,9 @@
-@media (max-width: 900px) {
-    
+/* Anterior###################################################### */
+
+/* @media (max-width: 900px) {
+
     #page-home {
-        background-position-x: 70vw;       
+        background-position-x: 70vw;
     }
 
     #page-home .content {
@@ -41,7 +43,7 @@
         flex-direction: column;
     }
 
-    #page-create-point .field-group .field + .field {
+    #page-create-point .field-group .field+.field {
         margin-left: 0;
     }
 
@@ -74,16 +76,9 @@
 }
 
 @media (max-width: 700px) {
-     .items-grid {
+    .items-grid {
         grid-template-columns: 1fr 1fr;
     }
-
-    /* form button {
-        display: block;
-        justify-content: center;
-        align-items: center;
-    } */
-
 }
 
 
@@ -135,4 +130,4 @@
         margin-bottom: 30px;
         margin-left: -50px;
     }
-}
+} */
