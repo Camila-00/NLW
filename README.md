@@ -1,7 +1,7 @@
 <h1 align="center">Next Level Week - RocketSeat :rocket:</h1>                                                         
 
 <h1 align="center">
-<img src="./public/assets/rocket/0.jpg" style="align-items: center; width: 300px">
+<img src="./public/assets/logonlw1.png" style="align-items: center">
 </h1>
 
 
