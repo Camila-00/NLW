@@ -33,6 +33,8 @@
 <img src="./public/assets/logojs.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
 <img src="./public/assets/logonode.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
 <img src="./public/assets/logosql.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
+<img src="./public/assets/logonunjucks.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
+<img src="./public/assets/logonodemon.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
 <img src="./public/assets/logohtml.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
 <img src="./public/assets/logocss.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
 
