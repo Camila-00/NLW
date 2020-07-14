@@ -26,7 +26,6 @@
 <h2 id="preview">🔎 Preview </h2>
 <img src="./public/assets/preview/1.png">
 
-<hr>
 
 <h2 id="technologies">🧰 Used Technologies </h2>
 
@@ -39,8 +38,6 @@
 <img src="./public/assets/logocss.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;
 
 
-<hr>
-
 <h2 id="contribute">🖇 Contribute</h2>
 
     💡 Explore your creativity and skills 
@@ -50,12 +47,9 @@
     💠 Make a push to your branch
 <h3>&nbsp;That's it! 🖖</h3>
 
-<hr>
-
 <h2 id="license">🖋 License</h2>
 <p>This project is under the MIT license. See the <a href="https://github.com/Camila-Isabela/Next-Level-Week/blob/master/LICENSE"><strong>License</strong></a> for more details.</p>
 
-<hr>
 
 &ensp;&ensp;&ensp;&ensp;<img src="./public/assets/footlogo.png" alt="logotipo footer">
 
