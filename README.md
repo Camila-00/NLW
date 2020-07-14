@@ -43,9 +43,9 @@
 
     💡 Explore your creativity and skills 
     📥 Make a fork
-    🔱 Create a branck with your feature: <code> git checkout -b my-feature </code>
-    〽 Commit changes: <code> git commit -m 'feat: My new feature'</code>
-    💠 Make a push to your branch: <code> git push origin my-feature </code>
+    🔱 Create a branck with your feature
+    〽 Commit changes
+    💠 Make a push to your branch
 <h3>That's  it! 🖖</h3>
 
 <hr></hr>
