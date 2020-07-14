@@ -13,7 +13,7 @@
 </h2>
 
 
-<hr>
+
 
 
 <h2 id="about">🏷 About The Project</h2>
@@ -21,7 +21,7 @@
 
 <p>It consists in the production of a web application, to provide the population with information on recyclable garbage collection points, as well as registration of new collection points to expand actions to preserve the environment. </p>
 
-<hr>
+
 
 <h2 id="preview">🔎 Preview </h2>
 <img src="./public/assets/preview/1.png">
