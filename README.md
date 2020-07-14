@@ -30,23 +30,23 @@
 
 <h2 id="technologies">🧰 Used Technologies </h2>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="./public/assets/logojs.png" width="100" height="75" style="border-radius:20%"></a><br><br>
-<a href="https://nodejs.org/en/docs/" target="_blank" ><img src="./public/assets/logonode.png" width="100" height="75" style="border-radius:20%"></a><br><br>
-<a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank" ><img src="./public/assets/logosql.png" width="100" height="75" style="border-radius:20%"></a><br><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" ><img src="./public/assets/logohtml.png" width="100" height="75" style="border-radius:20%"></a><br><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" ><img src="./public/assets/logocss.png" width="100" height="75" style="border-radius:20%"></a><br><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="./public/assets/logojs.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;</a>
+<a href="https://nodejs.org/en/docs/" target="_blank" ><img src="./public/assets/logonode.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;</a>
+<a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank" ><img src="./public/assets/logosql.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" ><img src="./public/assets/logohtml.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" ><img src="./public/assets/logocss.png" width="100" height="75" style="border-radius:20%">&nbsp;&nbsp;&nbsp;</a>
 
 
 <hr></hr>
 
 <h2 id="contribute">🖇 Contribute</h2>
-<ul>
-    <li>Explore your creativity and skills</li> 
-    <li>Make a fork;</li>
-    <li>Create a branck with your feature: <code>git checkout -b my-feature</code>;</li>
-    <li>Commit changes: <code>git commit -m 'feat: My new feature'</code>;</li>
-    <li>Make a push to your branch: <code>git push origin my-feature</code>.</li>
-</ul><h3>That's  it! 🖖</h3>
+
+    💡 Explore your creativity and skills 
+    📥 Make a fork
+    🔱 Create a branck with your feature: <code>git checkout -b my-feature</code>
+    〽 Commit changes: <code>git commit -m 'feat: My new feature'</code>
+    💠 Make a push to your branch: <code>git push origin my-feature</code>
+<h3>That's  it! 🖖</h3>
 
 <hr></hr>
 
