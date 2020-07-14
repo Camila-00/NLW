@@ -1,4 +1,4 @@
-                                                         # Next Level Week - RocketSeat :rocket:
+<h1 align="center">Next Level Week - RocketSeat :rocket:</h1>                                                         
 
 <h1 align="center">
 <img src="./public/assets/rocket/0.jpg" style="align-items: center; width: 300px">
