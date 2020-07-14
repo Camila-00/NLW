@@ -46,7 +46,7 @@
     🔱 Create a branck with your feature
     〽 Commit changes
     💠 Make a push to your branch
-    <h3>That's  it! 🖖</h3>
+<h3>&nbsp;That's it! 🖖</h3>
 
 <hr></hr>
 
