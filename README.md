@@ -17,6 +17,7 @@
 
 
 <h2 id="about">🏷 About The Project</h2>
+
 <p>The Project <span style="color:green;"><b>Ecoleta</b> </span>♻ is an initiative of<a href="https://github.com/Rocketseat" target="_blank"><b> RocketSeat</b></a> in the context of <a href="https://pt.wikipedia.org/wiki/Dia_Mundial_do_Ambiente" target="_blank"> <b> <span style="color:green;"> World Environment Day</span></b> </a> taught by the teacher <a  href="https://github.com/maykbrito" target="_blank"><b>Mayk Brito</b></a>.</p>
 
 <p>It consists in the production of a web application, to provide the population with information on recyclable garbage collection points, as well as registration of new collection points to expand actions to preserve the environment. </p>
@@ -24,6 +25,7 @@
 
 
 <h2 id="preview">🔎 Preview </h2>
+
 <img src="./public/assets/preview/1.png">
 
 
@@ -48,10 +50,11 @@
 <h3>&nbsp;That's it! 🖖</h3>
 
 <h2 id="license">🖋 License</h2>
-<p>This project is under the MIT license. See the <a href="https://github.com/Camila-Isabela/Next-Level-Week/blob/master/LICENSE"><strong>License</strong></a> for more details.</p>
+
+<p>This project is under the MIT license. See the <a href="https://github.com/Camila-Isabela/Next-Level-Week/blob/master/LICENSE"><strong>License</strong></a> for more details.&ensp;&ensp;<img src="./public/assets/footlogo.png" alt="logotipo footer"></p>
 
 
-&ensp;&ensp;&ensp;&ensp;<img src="./public/assets/footlogo.png" alt="logotipo footer">
+
 
 
 
