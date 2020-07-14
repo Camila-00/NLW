@@ -1,4 +1,4 @@
-<h1 align="center">Next Level Week - RocketSeat :rocket:</h1>                                                         
+<h1 align="center">Next Level Week 1.0 - RocketSeat :rocket:</h1>                                                         
 
 <h1 align="center">
 <img src="./public/assets/logonlw2.png" style="align-items: center"><br>
@@ -43,7 +43,7 @@
 
     💡 Explore your creativity and skills 
     📥 Make a fork
-    🔱 Create a branck with your feature: <code> git checkout -b my-feature </code>
+    🔱 Create a branck with your feature: ```<code> git checkout -b my-feature </code>```
     〽 Commit changes: <code> git commit -m 'feat: My new feature'</code>
     💠 Make a push to your branch: <code> git push origin my-feature </code>
 <h3>That's  it! 🖖</h3>
