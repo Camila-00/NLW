@@ -30,7 +30,7 @@
 
 <h2 id="technologies">🧰 Used Technologies </h2>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="./public/assets/logojs.png" width="100" height="75" style="border-radius:20%"></a><br><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="./public/assets/logojs.png" width="100" height="75" style="border-radius:20%"></a><br><br>
 <a href="https://nodejs.org/en/docs/" target="_blank" ><img src="./public/assets/logonode.png" width="100" height="75" style="border-radius:20%"></a><br><br>
 <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank" ><img src="./public/assets/logosql.png" width="100" height="75" style="border-radius:20%"></a><br><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" ><img src="./public/assets/logohtml.png" width="100" height="75" style="border-radius:20%"></a><br><br>
